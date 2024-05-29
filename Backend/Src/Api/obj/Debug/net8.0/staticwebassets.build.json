@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "A5IT6wlNxHsNgheiSTstczLRCqMAGZmAK76dyZxZf14=",
+  "Source": "AmazonShop.Api",
+  "BasePath": "_content/AmazonShop.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

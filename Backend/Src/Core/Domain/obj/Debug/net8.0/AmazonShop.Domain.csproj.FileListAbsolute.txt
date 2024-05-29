@@ -1,0 +1,11 @@
+d:\projects\Marketplace\Backend\Src\Core\Domain\bin\Debug\net8.0\AmazonShop.Domain.deps.json
+d:\projects\Marketplace\Backend\Src\Core\Domain\bin\Debug\net8.0\AmazonShop.Domain.dll
+d:\projects\Marketplace\Backend\Src\Core\Domain\bin\Debug\net8.0\AmazonShop.Domain.pdb
+d:\projects\Marketplace\Backend\Src\Core\Domain\obj\Debug\net8.0\AmazonShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+d:\projects\Marketplace\Backend\Src\Core\Domain\obj\Debug\net8.0\AmazonShop.Domain.AssemblyInfoInputs.cache
+d:\projects\Marketplace\Backend\Src\Core\Domain\obj\Debug\net8.0\AmazonShop.Domain.AssemblyInfo.cs
+d:\projects\Marketplace\Backend\Src\Core\Domain\obj\Debug\net8.0\AmazonShop.Domain.csproj.CoreCompileInputs.cache
+d:\projects\Marketplace\Backend\Src\Core\Domain\obj\Debug\net8.0\AmazonShop.Domain.dll
+d:\projects\Marketplace\Backend\Src\Core\Domain\obj\Debug\net8.0\refint\AmazonShop.Domain.dll
+d:\projects\Marketplace\Backend\Src\Core\Domain\obj\Debug\net8.0\AmazonShop.Domain.pdb
+d:\projects\Marketplace\Backend\Src\Core\Domain\obj\Debug\net8.0\ref\AmazonShop.Domain.dll

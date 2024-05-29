@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AmazonShop.Infrastructure/1.0.0": {
+        "dependencies": {
+          "AmazonShop.Application": "1.0.0",
+          "AmazonShop.Domain": "1.0.0"
+        },
+        "runtime": {
+          "AmazonShop.Infrastructure.dll": {}
+        }
+      },
+      "AmazonShop.Application/1.0.0": {
+        "dependencies": {
+          "AmazonShop.Domain": "1.0.0"
+        },
+        "runtime": {
+          "AmazonShop.Application.dll": {}
+        }
+      },
+      "AmazonShop.Domain/1.0.0": {
+        "runtime": {
+          "AmazonShop.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AmazonShop.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AmazonShop.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AmazonShop.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

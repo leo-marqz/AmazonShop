@@ -1,0 +1,15 @@
+d:\projects\Marketplace\Backend\Src\Core\Application\bin\Debug\net8.0\AmazonShop.Application.deps.json
+d:\projects\Marketplace\Backend\Src\Core\Application\bin\Debug\net8.0\AmazonShop.Application.dll
+d:\projects\Marketplace\Backend\Src\Core\Application\bin\Debug\net8.0\AmazonShop.Application.pdb
+d:\projects\Marketplace\Backend\Src\Core\Application\bin\Debug\net8.0\AmazonShop.Domain.dll
+d:\projects\Marketplace\Backend\Src\Core\Application\bin\Debug\net8.0\AmazonShop.Domain.pdb
+d:\projects\Marketplace\Backend\Src\Core\Application\obj\Debug\net8.0\AmazonShop.Application.csproj.AssemblyReference.cache
+d:\projects\Marketplace\Backend\Src\Core\Application\obj\Debug\net8.0\AmazonShop.Application.GeneratedMSBuildEditorConfig.editorconfig
+d:\projects\Marketplace\Backend\Src\Core\Application\obj\Debug\net8.0\AmazonShop.Application.AssemblyInfoInputs.cache
+d:\projects\Marketplace\Backend\Src\Core\Application\obj\Debug\net8.0\AmazonShop.Application.AssemblyInfo.cs
+d:\projects\Marketplace\Backend\Src\Core\Application\obj\Debug\net8.0\AmazonShop.Application.csproj.CoreCompileInputs.cache
+d:\projects\Marketplace\Backend\Src\Core\Application\obj\Debug\net8.0\AmazonSh.626041DE.Up2Date
+d:\projects\Marketplace\Backend\Src\Core\Application\obj\Debug\net8.0\AmazonShop.Application.dll
+d:\projects\Marketplace\Backend\Src\Core\Application\obj\Debug\net8.0\refint\AmazonShop.Application.dll
+d:\projects\Marketplace\Backend\Src\Core\Application\obj\Debug\net8.0\AmazonShop.Application.pdb
+d:\projects\Marketplace\Backend\Src\Core\Application\obj\Debug\net8.0\ref\AmazonShop.Application.dll
