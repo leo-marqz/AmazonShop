@@ -8,6 +8,6 @@ namespace AmazonShop.Domain.Models.System
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public string Avatar { get; set; }
-        public bool IsActive { get; set; }
+        public bool IsActive { get; set; } = true;
     }
 }
