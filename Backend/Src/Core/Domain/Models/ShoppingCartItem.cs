@@ -15,5 +15,6 @@ namespace AmazonShop.Domain.Models
 
         public Guid ShoppingCartMasterId { get; set; }
         public int ShoppingCartId { get; set; }
+        public ShoppingCart ShoppingCart { get; set; }
     }
 }

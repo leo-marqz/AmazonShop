@@ -16,6 +16,9 @@ namespace AmazonShop.Domain.Models
         public int CategoryId { get; set; }
         public Category Category { get; set; }
 
-        public ICollection<Category> Categories { get; set; }
+        public virtual ICollection<Review> Reviews { get; set; }
+        public virtual ICollection<Image> Images { get; set; }
+
+        // public ICollection<Category> Categories { get; set; }
     }
 }
