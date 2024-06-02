@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HHIQ7FyNjJI7JQ/VwiSO0z+bmvkYWB8qncb+X+rvP6N7DM7k/4eIey67qIfXPh5VmyiIR2PzdtuDCTDHRXwKwQ==",
+  "dgSpecHash": "Jbn0Fqd3u00=",
   "success": true,
-  "projectFilePath": "D:\\projects\\Marketplace\\Backend\\Src\\Core\\Domain\\AmazonShop.Domain.csproj",
+  "projectFilePath": "D:\\projects\\AmazonShop\\Backend\\Src\\Core\\Domain\\AmazonShop.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leoma\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\leoma\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pqonMX6+ZzyQq/31lF7kI75G3/XmD0GidT/0PovFVMU8Tki8MNYejGeBNqZpl1AXmZHFGcRuGfpvlwlgV5Jmfg==",
+  "dgSpecHash": "4s9E/Q+y7GE=",
   "success": true,
-  "projectFilePath": "D:\\projects\\Marketplace\\Backend\\Src\\Core\\Application\\AmazonShop.Application.csproj",
+  "projectFilePath": "D:\\projects\\AmazonShop\\Backend\\Src\\Core\\Application\\AmazonShop.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leoma\\.nuget\\packages\\automapper\\13.0.0\\automapper.13.0.0.nupkg.sha512",
     "C:\\Users\\leoma\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

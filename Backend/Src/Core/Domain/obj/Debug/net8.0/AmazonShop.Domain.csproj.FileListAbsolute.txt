@@ -9,3 +9,16 @@ d:\projects\Marketplace\Backend\Src\Core\Domain\obj\Debug\net8.0\AmazonShop.Doma
 d:\projects\Marketplace\Backend\Src\Core\Domain\obj\Debug\net8.0\refint\AmazonShop.Domain.dll
 d:\projects\Marketplace\Backend\Src\Core\Domain\obj\Debug\net8.0\AmazonShop.Domain.pdb
 d:\projects\Marketplace\Backend\Src\Core\Domain\obj\Debug\net8.0\ref\AmazonShop.Domain.dll
+D:\projects\AmazonShop\Backend\Src\Core\Domain\bin\Debug\net8.0\AmazonShop.Domain.deps.json
+D:\projects\AmazonShop\Backend\Src\Core\Domain\bin\Debug\net8.0\AmazonShop.Domain.dll
+D:\projects\AmazonShop\Backend\Src\Core\Domain\bin\Debug\net8.0\AmazonShop.Domain.pdb
+D:\projects\AmazonShop\Backend\Src\Core\Domain\obj\Debug\net8.0\AmazonShop.Domain.csproj.AssemblyReference.cache
+D:\projects\AmazonShop\Backend\Src\Core\Domain\obj\Debug\net8.0\AmazonShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\AmazonShop\Backend\Src\Core\Domain\obj\Debug\net8.0\AmazonShop.Domain.AssemblyInfoInputs.cache
+D:\projects\AmazonShop\Backend\Src\Core\Domain\obj\Debug\net8.0\AmazonShop.Domain.AssemblyInfo.cs
+D:\projects\AmazonShop\Backend\Src\Core\Domain\obj\Debug\net8.0\AmazonShop.Domain.csproj.CoreCompileInputs.cache
+D:\projects\AmazonShop\Backend\Src\Core\Domain\obj\Debug\net8.0\AmazonShop.Domain.sourcelink.json
+D:\projects\AmazonShop\Backend\Src\Core\Domain\obj\Debug\net8.0\AmazonShop.Domain.dll
+D:\projects\AmazonShop\Backend\Src\Core\Domain\obj\Debug\net8.0\refint\AmazonShop.Domain.dll
+D:\projects\AmazonShop\Backend\Src\Core\Domain\obj\Debug\net8.0\AmazonShop.Domain.pdb
+D:\projects\AmazonShop\Backend\Src\Core\Domain\obj\Debug\net8.0\ref\AmazonShop.Domain.dll
