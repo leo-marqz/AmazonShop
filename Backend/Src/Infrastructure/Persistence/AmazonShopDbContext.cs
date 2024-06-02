@@ -1,4 +1,8 @@
 
+using System;
+using System.Threading;
+using System.Threading.Tasks;
+using AmazonShop.Domain.Common;
 using AmazonShop.Domain.Models;
 using AmazonShop.Domain.Models.System;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
@@ -11,6 +15,29 @@ namespace AmazonShop.Infrastructure.Persistence
         public AmazonShopDbContext(DbContextOptions<AmazonShopDbContext> options) 
         : base(options)
         {
+        }
+
+        public override Task<int> SaveChangesAsync(CancellationToken cancellationToken= default){
+            var userName = "System";
+
+            foreach (var entry in ChangeTracker.Entries<ModelBase>()){
+                switch (entry.State)
+                {
+                    case EntityState.Added:
+                        entry.Entity.CreatedAt = DateTime.UtcNow;
+                        entry.Entity.CreatedBy = userName;
+                        break;
+                    case EntityState.Modified:
+                        entry.Entity.UpdateAt = DateTime.Now;
+                        entry.Entity.UpdateBy = userName;
+                        break;
+                    case EntityState.Deleted:
+                        entry.Entity.DeletedBy = userName;
+                        entry.Entity.DeletedAt = DateTime.Now;
+                        break;
+                }
+            }
+            return base.SaveChangesAsync(cancellationToken);
         }
 
         protected override void OnModelCreating(ModelBuilder builder)
