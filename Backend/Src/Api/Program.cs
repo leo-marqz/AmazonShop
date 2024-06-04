@@ -1,17 +1,21 @@
 using System.Text;
 using AmazonShop.Domain.Models.System;
 using AmazonShop.Infrastructure.Persistence;
-using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc.Authorization;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection.Extensions;
-using Microsoft.Extensions.Internal;
 using Microsoft.IdentityModel.Tokens;
+using AmazonShop.Infrastructure;
 
 var builder = WebApplication.CreateBuilder(args);
+
+//Infrastructure
+//========================================================
+
+builder.Services.AddInfrastructureServices(builder.Configuration);
 
 // Add services to the container.
 builder.Services.AddDbContext<AmazonShopDbContext>((opt)=>{
